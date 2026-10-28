@@ -1,0 +1,2 @@
+name ='vish'
+print(name)
